@@ -1,6 +1,6 @@
 Name: x11-font-bitstream-100dpi
 Version: 1.0.3
-Release: %mkrel 4
+Release: 5
 Summary: Xorg X11 font bitstream-100dpi
 Group: Development/X11
 URL: http://xorg.freedesktop.org
